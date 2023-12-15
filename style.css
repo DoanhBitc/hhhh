@@ -1,0 +1,29 @@
+form{
+    background-color: aqua;
+    height: 335px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+    font-weight: 900;
+    border-style: solid;
+    border-width: thin;
+    padding: 15px;
+}
+#jmg{
+    text-align: center;
+}
+.Login{
+background-color: #12376c;
+color:white;
+border-radius: 5%;
+width: 98%;
+text-align: center;
+}
+#vang{
+    background-color: yellow;
+}
+
+a{
+    float: right;
+}
