@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.chung{
+    background-color: rgba(198, 176, 68, 0.597);
+    width: 400px;
+    height: 575px;
+    margin: 0 auto;
+    margin-top: 1.5%;
+    border: 3px solid;
+    padding: 25px;
+    text-align: center;
+}
+h1{
+    font-size:500%;
+    font-weight: 900;
+}
+h2{
+    font-size: 230%;
+    font-weight: 600;
+}
+h3{
+    font-size: 340%;
+    font-family: fantasy;
+}
+h4{
+    font-weight: 900;
+    font-size: 250%;
+}
+p{
+    font-size: small;
+    text-align: justify;
+}
+a{
+    border: 1px solid; 
+    background-color: rgb(112, 216, 242);
+}
